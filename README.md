@@ -1,6 +1,6 @@
 # GDOT-Net: Modeling Multi-Modal Brain Connectome for Brain Disorder Diagnosis via Graph Diffusion Optimal Transport Network
 
-###  :eyes:This work is under reviewed at Recomb 2026.
+###  :eyes: This work is under review at Recomb 2026.
 
 ![Overview](img/framework.jpg)
 
