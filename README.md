@@ -34,10 +34,10 @@ pip install -r requirements.txt
 
 
 
-![Visual1](img\explnation_experiment.jpg)
-![Visual2](C:\Users\admin\Documents\GitHub\GDOT-Net\img\ablation_study_2.jpg)
+![Visual1](img\\explnation_experiment.jpg)
+![Visual2](img\\ablation_study_2.jpg)
 
-![Visual1](img\NGA.jpg)
+![Visual1](img\\NGA.jpg)
 
 ## Notion
 
