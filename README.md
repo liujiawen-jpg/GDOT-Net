@@ -23,6 +23,7 @@ git clone git@github.com:liujiawen-jpg/GDOT-Net.git
 # Necessary environment requirements
 pip install -r requirements.txt
 ```
+GDOT-Net requires the rational_kat library. You can find the installation instructions here: https://github.com/Adamdad/rational_kat_cu.
 
 ## How to run the code!!!!
 
