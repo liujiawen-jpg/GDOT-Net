@@ -20,8 +20,6 @@ git clone git@github.com:liujiawen-jpg/GDOT-Net.git
 ### It is recommended to use Python 3.12.x to avoid ImportError
 
 ```
-cd requirements
-
 # Necessary environment requirements
 pip install -r requirements.txt
 ```
