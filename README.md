@@ -2,7 +2,7 @@
 
 ###  :eyes: This work is under review at Recomb 2026.
 
-![Overview](img/framework.jpg)
+![Overview](img/framework_V2.jpg)
 
 
 # How to run this code
