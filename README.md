@@ -1,4 +1,4 @@
-# GDOT-Net: Modeling Multi-Modal Brain Connectome for Brain Disorder Diagnosis via Graph Diffusion Optimal Transport Network
+# GDOT-Net
 
 
 
