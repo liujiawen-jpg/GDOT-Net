@@ -1,6 +1,6 @@
 # GDOT-Net: Modeling Multi-Modal Brain Connectome for Brain Disorder Diagnosis via Graph Diffusion Optimal Transport Network
 
-###  :eyes: This work is under review at Recomb 2026.
+###  :eyes:This work was accepted by Recomb 2026!!!
 
 ![Overview](img/framework_V2.jpg)
 
@@ -26,9 +26,9 @@ pip install -r requirements.txt
 
 GDOT-Net requires the rational_kat library. You can find the installation instructions here: https://github.com/Adamdad/rational_kat_cu.
 
-## How to run the code!!!!
+### Run 
 
-:eyes:  You can see the toy_example.ipynb.:eyes:
+Run the toy_example.ipynb.:eyes:
 
 # Experiments
 
